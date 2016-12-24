@@ -1,2 +1,2 @@
-autopot by WillTheDoggy (edit tqk2811)
-lkchannel by Lemon-King
+# tqk2811_addons_tos
+lk channel by Lemon-King

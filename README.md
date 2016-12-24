@@ -1,3 +1,3 @@
-autopot by WillTheDoggy (edit tqk2811)
+autopot by WillTheDoggy (edit tqk2811).
 
-lkchannel by Lemon-King
+lkchannel by Lemon-King.

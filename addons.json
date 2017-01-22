@@ -18,7 +18,7 @@
 		"name" : "lkchannel",
 		"file" : "lkchannel",
 		"extension" : "ipf",
-		"fileVersion" : "v0.01",
+		"fileVersion" : "v1.0.0",
 		"releaseTag" : "lkchannel",
 		"unicode" : "👑",
 		"description" : "Show number player in dropdown box channel.",

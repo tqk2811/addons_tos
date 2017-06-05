@@ -15,6 +15,7 @@ local default_acc = {
 local default = {
 	debug_ = 0;
 	list_hp = {
+		640324, --2212,2212  Huge HP Potion
 		641801, --1920,2688 Highly Condensed HP Potion
 		641219, --1920,2688 Lv15 Condensed HP Potion
 		640224, --1870,2618 Keista HP Potion Lv3
@@ -48,6 +49,7 @@ local default = {
 		640072 --?,? Popolion Meat (lol)
 		};
 	list_sp ={
+		640326,--734,734 Huge SP Potion
 		640225, --1300,1820 Keista SP Potion Lv1
 		640226, --1560,2184 Keista SP Potion Lv2
 		640227, --1870,2618 Keista SP Potion Lv3
@@ -107,7 +109,7 @@ local default = {
 		640140,--30, Fragmentation Jewel
 		0
 	};
-	version = '1.7.1';
+	version = '1.7.2';
 }
 
 local default_character = {
